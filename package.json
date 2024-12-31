@@ -1,0 +1,17 @@
+{
+  "name": "generator-mssql-sproc",
+  "version": "1.0.0",
+  "description": "yeoman-generator for mssql-scripts",
+  "main": "generators/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^12.3.0",
+    "mssql": "^11.0.1"
+  }
+}
